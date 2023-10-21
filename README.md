@@ -19,7 +19,7 @@ We cover a wide range of topics from programming and database management to cust
 
 ## Last 10 additions:
 - LINUX
-  - <a href="https://github.com/morington/help/blob/main/NATS/Commands.md">Commands.md</a>
+  - <a href="https://github.com/morington/help/blob/main/LINUX/Commands.md">Commands.md</a>
 - NATS
   - <a href="https://github.com/morington/help/blob/main/NATS/Installation%20and%20configuration.md">Installation and configuration.md</a>
 
