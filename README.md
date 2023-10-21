@@ -6,11 +6,7 @@
 
 <p align="center">
 <a href="https://t.me/morington"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
-<<<<<<< HEAD
 <a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Categories_Supported-2-blue" alt="CategoriesSupported"/></a>
-=======
-<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Categories_Supported-1-blue" alt="CategoriesSupported"/></a>
->>>>>>> cffcf790a6dc70fdb286b9ae997e9ba521326a37
 </p>
 
 ## Welcome to the world of knowledge and skills!
@@ -22,7 +18,6 @@ Whether you are a novice programmer, an experienced administrator, or just looki
 We cover a wide range of topics from programming and database management to customizing systems, deploying services, and explaining documentation.
 
 ## Last 10 additions:
-<<<<<<< HEAD
 - LINUX
   - <a href="https://github.com/morington/help/blob/main/NATS/Commands.md">Commands.md</a>
 - NATS
@@ -30,11 +25,3 @@ We cover a wide range of topics from programming and database management to cust
 
 ### The material will be updated. Sign up for notifications!
 [![GitHub Watchers](https://img.shields.io/github/watchers/morington/help.svg?style=social&label=Watch)](https://github.com/morington/help)
-=======
-- NATS
-  - <a href="https://github.com/morington/help/blob/main/NATS/Installation%20and%20configuration.md">Installation and configuration.md</a>
-
-
-### The material will be updated. Sign up for notifications!
-[![GitHub Watchers](https://img.shields.io/github/watchers/morington/help.svg?style=social&label=Watch)](https://github.com/morington/help)
->>>>>>> cffcf790a6dc70fdb286b9ae997e9ba521326a37
