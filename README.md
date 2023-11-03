@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://t.me/morington"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Categories_Supported-2-blue" alt="CategoriesSupported"/></a>
+<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Categories_Supported-3-blue" alt="CategoriesSupported"/></a>
 </p>
 
 ## Welcome to the world of knowledge and skills!
@@ -18,6 +18,8 @@ Whether you are a novice programmer, an experienced administrator, or just looki
 We cover a wide range of topics from programming and database management to customizing systems, deploying services, and explaining documentation.
 
 ## Last 10 additions:
+- WINDOWS
+  - <a href="https://github.com/morington/help/blob/main/WINDOWS/Commands.md">Commands.md</a>
 - LINUX
   - <a href="https://github.com/morington/help/blob/main/LINUX/Commands.md">Commands.md</a>
 - NATS
