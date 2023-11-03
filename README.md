@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-<a href="https://t.me/morington"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://t.me/dev_survival"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Categories_Supported-3-blue" alt="CategoriesSupported"/></a>
+<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Notes-3-blue" alt="Notes"/></a>
 </p>
 
 ## Welcome to the world of knowledge and skills!
