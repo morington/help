@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://t.me/dev_survival"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Поддерживаемые_категории-3-blue" alt="CategoriesSupported"/></a>
-<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Заметок-3-blue" alt="Notes"/></a>
+<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Заметок-4-blue" alt="Notes"/></a>
 </p>
 
 ## Добро пожаловать в мир знаний и умений!
@@ -22,6 +22,7 @@
 ## Последние 10 обновлений:
 - WINDOWS
   - <a href="https://github.com/morington/help/blob/main/WINDOWS/Commands.md">Commands.md</a>
+  - <a href="https://github.com/morington/help/blob/main/WINDOWS/ActivateWindows11_10.md">ActivateWindows11_10.md</a>
 - LINUX
   - <a href="https://github.com/morington/help/blob/main/LINUX/Commands.md">Commands.md</a>
 - NATS
