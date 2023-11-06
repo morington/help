@@ -1,24 +1,25 @@
 <p align="center">
 <img src="https://github.com/morington/help/blob/main/images/icons8-helper-100.png?raw=true" alt="HelperIcon" width=70>
-<h1 align="center">Developer assistance</h1>
-<p align="center">Welcome to the repository helper! Here you will find a rich collection of notes, guides and tutorials covering various aspects of the technical world.</p>
+<h1 align="center">Пакет помощи разработчику</h1>
+<p align="center">Добро пожаловать в репозиторий-помощник!</p>
+<p align="center">Здесь вы найдете богатую коллекцию заметок, руководств и учебников, охватывающих различные аспекты технического мира.</p>
 </p>
 
 <p align="center">
 <a href="https://t.me/dev_survival"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Categories_Supported-3-blue" alt="CategoriesSupported"/></a>
-<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Notes-3-blue" alt="Notes"/></a>
+<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Поддерживаемые_категории-3-blue" alt="CategoriesSupported"/></a>
+<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Заметок-3-blue" alt="Notes"/></a>
 </p>
 
-## Welcome to the world of knowledge and skills!
+## Добро пожаловать в мир знаний и умений!
 
-The goal of the repository is to make your path in the world of technology more understandable and accessible. 
+Цель репозитория - сделать ваш путь в мире технологий более понятным и доступным. 
 
-Whether you are a novice programmer, an experienced administrator, or just looking for information on deploying various tools, you will find useful resources here.
+Независимо от того, являетесь ли вы начинающим программистом, опытным администратором или просто ищете информацию о развертывании различных инструментов, вы найдете здесь полезные ресурсы.
 
-We cover a wide range of topics from programming and database management to customizing systems, deploying services, and explaining documentation.
+Мы охватываем широкий спектр тем - от программирования и управления базами данных до настройки систем, развертывания сервисов и объяснения документации.
 
-## Last 10 additions:
+## Последние 10 обновлений:
 - WINDOWS
   - <a href="https://github.com/morington/help/blob/main/WINDOWS/Commands.md">Commands.md</a>
 - LINUX
@@ -26,5 +27,5 @@ We cover a wide range of topics from programming and database management to cust
 - NATS
   - <a href="https://github.com/morington/help/blob/main/NATS/Installation%20and%20configuration.md">Installation and configuration.md</a>
 
-### The material will be updated. Sign up for notifications!
+### Материал будет обновляться. Подпишитесь на уведомления!
 [![GitHub Watchers](https://img.shields.io/github/watchers/morington/help.svg?style=social&label=Watch)](https://github.com/morington/help)
