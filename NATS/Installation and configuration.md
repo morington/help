@@ -72,7 +72,7 @@ sudo nano /etc/nats/nats-server.conf
 
 ```
 store_dir: "/var/lib/nats"
-listen: "0.0.0.0:4222"
+listen: "127.0.0.1:4222"
 log_file: /var/log/nats/nats.log
 
 jetstream: {}
