@@ -7,8 +7,8 @@
 
 <p align="center">
 <a href="https://t.me/dev_survival"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Поддерживаемые_категории-3-blue" alt="CategoriesSupported"/></a>
-<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Заметок-5-blue" alt="Notes"/></a>
+<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Поддерживаемые_категории-4-blue" alt="CategoriesSupported"/></a>
+<a href="https://github.com/morington/help"><img src="https://img.shields.io/badge/Заметок-6-blue" alt="Notes"/></a>
 </p>
 
 ## Добро пожаловать в мир знаний и умений!
@@ -20,6 +20,8 @@
 Мы охватываем широкий спектр тем - от программирования и управления базами данных до настройки систем, развертывания сервисов и объяснения документации.
 
 ## Последние 10 обновлений:
+- GIT
+  - <a href="https://github.com/morington/help/blob/main/GIT/commands.md">commands.md</a>
 - LINUX__WSL
   - <a href="https://github.com/morington/help/blob/main/LINUX__WSL/OhMyZsh.md">OhMyZsh.md</a>
 - LINUX переименован в LINUX__WSL
