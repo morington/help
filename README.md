@@ -20,16 +20,18 @@
 Мы охватываем широкий спектр тем - от программирования и управления базами данных до настройки систем, развертывания сервисов и объяснения документации.
 
 ## Последние 10 обновлений:
+- LINUX_and_WSL
+  - [LinuxMintNotes.md](LINUX_and_WSL/LinuxMintNotes.md)
 - GIT
   - <a href="https://github.com/morington/help/blob/main/GIT/commands.md">commands.md</a>
-- LINUX__WSL
-  - <a href="https://github.com/morington/help/blob/main/LINUX__WSL/OhMyZsh.md">OhMyZsh.md</a>
-- LINUX переименован в LINUX__WSL
+- LINUX_and_WSL
+  - <a href="https://github.com/morington/help/blob/main/LINUX_and_WSL/OhMyZsh.md">OhMyZsh.md</a>
+- LINUX переименован в LINUX_and_WSL
 - WINDOWS
   - <a href="https://github.com/morington/help/blob/main/WINDOWS/Commands.md">Commands.md</a>
   - <a href="https://github.com/morington/help/blob/main/WINDOWS/ActivateWindows11_10.md">ActivateWindows11_10.md</a>
 - LINUX
-  - <a href="https://github.com/morington/help/blob/main/LINUX__WSL/Commands.md">Commands.md</a>
+  - <a href="https://github.com/morington/help/blob/main/LINUX_and_WSL/Commands.md">Commands.md</a>
 - NATS
   - <a href="https://github.com/morington/help/blob/main/NATS/Installation%20and%20configuration.md">Installation and configuration.md</a>
 
